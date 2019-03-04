@@ -1,10 +1,5 @@
 # Android Camera
-This application using Image Cropping Library for Android, optimized for Camera and Gallery.
 
-### Screenshots
-<pre>
-<img src="Screenshot/Screenshot_20180913-154741_Android Camera.jpg" width="250" height="444">         <img src="Screenshot/Screenshot_20180913-154814_Android System.jpg" width="250" height="444">         <img src="Screenshot/Screenshot_20180913-154844_Android Camera.jpg" width="250" height="444">         <img src="Screenshot/Screenshot_20180913-154851_Android Camera.jpg" width="250" height="444">
-</pre>
 
 ### Instructions for running the application source code
 Add ***maven {}*** and ***mavenCentral()*** into file ***build.gradle*** project
@@ -57,7 +52,7 @@ Last, add activity ***CropImageActivity*** into file ***AndroidManifest.xml***
 
 ## Author
 
-* **R Rifa Fauzi Komara**
+Akbar Pambudi Utomo
 
 Don't forget to follow and give me ★
 # AndroidCamera
